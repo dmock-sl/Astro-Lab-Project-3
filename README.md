@@ -1,6 +1,3 @@
 # Project3-Narrowband-Imaging
 
-
-Data can be found at https://drive.google.com/drive/folders/1BB8wyKeJL9sM2piB1yIhor-qUOFvQGRE?usp=sharing 
-
-Just remove the '/media/daniel/disk' part of the filepath in code and replace it with whatever is appropriate after unzipping the data
+This data and this notebook was created in completion of the fourth project in an Upper Division / Graduate Level Astronomy lab course at UT Austin during the Spring 2020 semester. The purpose of this project was to determine the location of star-forming regions within three galaxies: M82, M49, and M51. Additionally we had to repeat the same analysis for two additional galaxies. However, the accuracy of the analysis was significantly limited when we later learned that one of the filters in the telescope we had been using had been mislabeled, and in fact the desired filter was not in the filter wheel at all. Nevetheless we were still able to detect the most prominent star forming galaxies.
